@@ -5,7 +5,7 @@
   "use strict";
 
   /* ---------- LinkedIn URL (demo — update this one line) ---------- */
-  const LINKEDIN_URL = "https://www.linkedin.com/in/laxmiprasad-panda";
+  const LINKEDIN_URL = "https://www.linkedin.com/in/laxmiprasad-panda-981a27235?utm_source=share_via&utm_content=profile&utm_medium=member_android";
   document.querySelectorAll(".js-linkedin").forEach((a) => (a.href = LINKEDIN_URL));
 
   /* ---------- nav: scrolled state ---------- */
