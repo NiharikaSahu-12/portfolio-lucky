@@ -1,1 +1,18 @@
-assets/Laxmiprasad_Panda_Resume.docx
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+
+# Dependencies and logs (only if you ever run npm)
+node_modules/
+npm-debug.log*
+
+# Local environment files
+.env
+.env.*
+
+# Word copy of the resume (the PDF is what the site uses)
+assets/*.docx
